@@ -1,0 +1,14 @@
+E:\BackEnd tasks\CSharp\Session2\RouteTaskSession2Solution\RouteTaskSession2\bin\Debug\net8.0\RouteTaskSession2.exe
+E:\BackEnd tasks\CSharp\Session2\RouteTaskSession2Solution\RouteTaskSession2\bin\Debug\net8.0\RouteTaskSession2.deps.json
+E:\BackEnd tasks\CSharp\Session2\RouteTaskSession2Solution\RouteTaskSession2\bin\Debug\net8.0\RouteTaskSession2.runtimeconfig.json
+E:\BackEnd tasks\CSharp\Session2\RouteTaskSession2Solution\RouteTaskSession2\bin\Debug\net8.0\RouteTaskSession2.dll
+E:\BackEnd tasks\CSharp\Session2\RouteTaskSession2Solution\RouteTaskSession2\bin\Debug\net8.0\RouteTaskSession2.pdb
+E:\BackEnd tasks\CSharp\Session2\RouteTaskSession2Solution\RouteTaskSession2\obj\Debug\net8.0\RouteTaskSession2.GeneratedMSBuildEditorConfig.editorconfig
+E:\BackEnd tasks\CSharp\Session2\RouteTaskSession2Solution\RouteTaskSession2\obj\Debug\net8.0\RouteTaskSession2.AssemblyInfoInputs.cache
+E:\BackEnd tasks\CSharp\Session2\RouteTaskSession2Solution\RouteTaskSession2\obj\Debug\net8.0\RouteTaskSession2.AssemblyInfo.cs
+E:\BackEnd tasks\CSharp\Session2\RouteTaskSession2Solution\RouteTaskSession2\obj\Debug\net8.0\RouteTaskSession2.csproj.CoreCompileInputs.cache
+E:\BackEnd tasks\CSharp\Session2\RouteTaskSession2Solution\RouteTaskSession2\obj\Debug\net8.0\RouteTaskSession2.dll
+E:\BackEnd tasks\CSharp\Session2\RouteTaskSession2Solution\RouteTaskSession2\obj\Debug\net8.0\refint\RouteTaskSession2.dll
+E:\BackEnd tasks\CSharp\Session2\RouteTaskSession2Solution\RouteTaskSession2\obj\Debug\net8.0\RouteTaskSession2.pdb
+E:\BackEnd tasks\CSharp\Session2\RouteTaskSession2Solution\RouteTaskSession2\obj\Debug\net8.0\RouteTaskSession2.genruntimeconfig.cache
+E:\BackEnd tasks\CSharp\Session2\RouteTaskSession2Solution\RouteTaskSession2\obj\Debug\net8.0\ref\RouteTaskSession2.dll
