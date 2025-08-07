@@ -1,0 +1,15 @@
+E:\BackEnd tasks\CSharp\Session4\Taskfour\bin\Debug\net8.0\Taskfour.exe
+E:\BackEnd tasks\CSharp\Session4\Taskfour\bin\Debug\net8.0\Taskfour.deps.json
+E:\BackEnd tasks\CSharp\Session4\Taskfour\bin\Debug\net8.0\Taskfour.runtimeconfig.json
+E:\BackEnd tasks\CSharp\Session4\Taskfour\bin\Debug\net8.0\Taskfour.dll
+E:\BackEnd tasks\CSharp\Session4\Taskfour\bin\Debug\net8.0\Taskfour.pdb
+E:\BackEnd tasks\CSharp\Session4\Taskfour\obj\Debug\net8.0\Taskfour.GeneratedMSBuildEditorConfig.editorconfig
+E:\BackEnd tasks\CSharp\Session4\Taskfour\obj\Debug\net8.0\Taskfour.AssemblyInfoInputs.cache
+E:\BackEnd tasks\CSharp\Session4\Taskfour\obj\Debug\net8.0\Taskfour.AssemblyInfo.cs
+E:\BackEnd tasks\CSharp\Session4\Taskfour\obj\Debug\net8.0\Taskfour.csproj.CoreCompileInputs.cache
+E:\BackEnd tasks\CSharp\Session4\Taskfour\obj\Debug\net8.0\Taskfour.sourcelink.json
+E:\BackEnd tasks\CSharp\Session4\Taskfour\obj\Debug\net8.0\Taskfour.dll
+E:\BackEnd tasks\CSharp\Session4\Taskfour\obj\Debug\net8.0\refint\Taskfour.dll
+E:\BackEnd tasks\CSharp\Session4\Taskfour\obj\Debug\net8.0\Taskfour.pdb
+E:\BackEnd tasks\CSharp\Session4\Taskfour\obj\Debug\net8.0\Taskfour.genruntimeconfig.cache
+E:\BackEnd tasks\CSharp\Session4\Taskfour\obj\Debug\net8.0\ref\Taskfour.dll
