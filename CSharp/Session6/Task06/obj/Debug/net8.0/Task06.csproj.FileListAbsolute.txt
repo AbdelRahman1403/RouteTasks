@@ -1,0 +1,15 @@
+E:\BackEnd tasks\CSharp\Session6\Task06\bin\Debug\net8.0\Task06.exe
+E:\BackEnd tasks\CSharp\Session6\Task06\bin\Debug\net8.0\Task06.deps.json
+E:\BackEnd tasks\CSharp\Session6\Task06\bin\Debug\net8.0\Task06.runtimeconfig.json
+E:\BackEnd tasks\CSharp\Session6\Task06\bin\Debug\net8.0\Task06.dll
+E:\BackEnd tasks\CSharp\Session6\Task06\bin\Debug\net8.0\Task06.pdb
+E:\BackEnd tasks\CSharp\Session6\Task06\obj\Debug\net8.0\Task06.GeneratedMSBuildEditorConfig.editorconfig
+E:\BackEnd tasks\CSharp\Session6\Task06\obj\Debug\net8.0\Task06.AssemblyInfoInputs.cache
+E:\BackEnd tasks\CSharp\Session6\Task06\obj\Debug\net8.0\Task06.AssemblyInfo.cs
+E:\BackEnd tasks\CSharp\Session6\Task06\obj\Debug\net8.0\Task06.csproj.CoreCompileInputs.cache
+E:\BackEnd tasks\CSharp\Session6\Task06\obj\Debug\net8.0\Task06.sourcelink.json
+E:\BackEnd tasks\CSharp\Session6\Task06\obj\Debug\net8.0\Task06.dll
+E:\BackEnd tasks\CSharp\Session6\Task06\obj\Debug\net8.0\refint\Task06.dll
+E:\BackEnd tasks\CSharp\Session6\Task06\obj\Debug\net8.0\Task06.pdb
+E:\BackEnd tasks\CSharp\Session6\Task06\obj\Debug\net8.0\Task06.genruntimeconfig.cache
+E:\BackEnd tasks\CSharp\Session6\Task06\obj\Debug\net8.0\ref\Task06.dll
