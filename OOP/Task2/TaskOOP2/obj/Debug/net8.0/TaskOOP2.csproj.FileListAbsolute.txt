@@ -1,0 +1,15 @@
+E:\BackEnd tasks\OOP\Task2\TaskOOP2\bin\Debug\net8.0\TaskOOP2.exe
+E:\BackEnd tasks\OOP\Task2\TaskOOP2\bin\Debug\net8.0\TaskOOP2.deps.json
+E:\BackEnd tasks\OOP\Task2\TaskOOP2\bin\Debug\net8.0\TaskOOP2.runtimeconfig.json
+E:\BackEnd tasks\OOP\Task2\TaskOOP2\bin\Debug\net8.0\TaskOOP2.dll
+E:\BackEnd tasks\OOP\Task2\TaskOOP2\bin\Debug\net8.0\TaskOOP2.pdb
+E:\BackEnd tasks\OOP\Task2\TaskOOP2\obj\Debug\net8.0\TaskOOP2.GeneratedMSBuildEditorConfig.editorconfig
+E:\BackEnd tasks\OOP\Task2\TaskOOP2\obj\Debug\net8.0\TaskOOP2.AssemblyInfoInputs.cache
+E:\BackEnd tasks\OOP\Task2\TaskOOP2\obj\Debug\net8.0\TaskOOP2.AssemblyInfo.cs
+E:\BackEnd tasks\OOP\Task2\TaskOOP2\obj\Debug\net8.0\TaskOOP2.csproj.CoreCompileInputs.cache
+E:\BackEnd tasks\OOP\Task2\TaskOOP2\obj\Debug\net8.0\TaskOOP2.sourcelink.json
+E:\BackEnd tasks\OOP\Task2\TaskOOP2\obj\Debug\net8.0\TaskOOP2.dll
+E:\BackEnd tasks\OOP\Task2\TaskOOP2\obj\Debug\net8.0\refint\TaskOOP2.dll
+E:\BackEnd tasks\OOP\Task2\TaskOOP2\obj\Debug\net8.0\TaskOOP2.pdb
+E:\BackEnd tasks\OOP\Task2\TaskOOP2\obj\Debug\net8.0\TaskOOP2.genruntimeconfig.cache
+E:\BackEnd tasks\OOP\Task2\TaskOOP2\obj\Debug\net8.0\ref\TaskOOP2.dll
