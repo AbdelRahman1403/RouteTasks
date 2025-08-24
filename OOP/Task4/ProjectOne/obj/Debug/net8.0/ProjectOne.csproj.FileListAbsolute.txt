@@ -1,0 +1,15 @@
+E:\BackEnd tasks\OOP\Task4\ProjectOne\bin\Debug\net8.0\ProjectOne.exe
+E:\BackEnd tasks\OOP\Task4\ProjectOne\bin\Debug\net8.0\ProjectOne.deps.json
+E:\BackEnd tasks\OOP\Task4\ProjectOne\bin\Debug\net8.0\ProjectOne.runtimeconfig.json
+E:\BackEnd tasks\OOP\Task4\ProjectOne\bin\Debug\net8.0\ProjectOne.dll
+E:\BackEnd tasks\OOP\Task4\ProjectOne\bin\Debug\net8.0\ProjectOne.pdb
+E:\BackEnd tasks\OOP\Task4\ProjectOne\obj\Debug\net8.0\ProjectOne.GeneratedMSBuildEditorConfig.editorconfig
+E:\BackEnd tasks\OOP\Task4\ProjectOne\obj\Debug\net8.0\ProjectOne.AssemblyInfoInputs.cache
+E:\BackEnd tasks\OOP\Task4\ProjectOne\obj\Debug\net8.0\ProjectOne.AssemblyInfo.cs
+E:\BackEnd tasks\OOP\Task4\ProjectOne\obj\Debug\net8.0\ProjectOne.csproj.CoreCompileInputs.cache
+E:\BackEnd tasks\OOP\Task4\ProjectOne\obj\Debug\net8.0\ProjectOne.sourcelink.json
+E:\BackEnd tasks\OOP\Task4\ProjectOne\obj\Debug\net8.0\ProjectOne.dll
+E:\BackEnd tasks\OOP\Task4\ProjectOne\obj\Debug\net8.0\refint\ProjectOne.dll
+E:\BackEnd tasks\OOP\Task4\ProjectOne\obj\Debug\net8.0\ProjectOne.pdb
+E:\BackEnd tasks\OOP\Task4\ProjectOne\obj\Debug\net8.0\ProjectOne.genruntimeconfig.cache
+E:\BackEnd tasks\OOP\Task4\ProjectOne\obj\Debug\net8.0\ref\ProjectOne.dll
