@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RouteTaskSession2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8e4c5f9f1ffb4e775129f7709a4f83fbf8bbd24")]
 [assembly: System.Reflection.AssemblyProductAttribute("RouteTaskSession2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RouteTaskSession2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

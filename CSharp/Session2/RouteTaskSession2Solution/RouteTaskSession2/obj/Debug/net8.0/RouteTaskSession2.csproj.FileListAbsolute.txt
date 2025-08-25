@@ -12,3 +12,4 @@ E:\BackEnd tasks\CSharp\Session2\RouteTaskSession2Solution\RouteTaskSession2\obj
 E:\BackEnd tasks\CSharp\Session2\RouteTaskSession2Solution\RouteTaskSession2\obj\Debug\net8.0\RouteTaskSession2.pdb
 E:\BackEnd tasks\CSharp\Session2\RouteTaskSession2Solution\RouteTaskSession2\obj\Debug\net8.0\RouteTaskSession2.genruntimeconfig.cache
 E:\BackEnd tasks\CSharp\Session2\RouteTaskSession2Solution\RouteTaskSession2\obj\Debug\net8.0\ref\RouteTaskSession2.dll
+E:\BackEnd tasks\CSharp\Session2\RouteTaskSession2Solution\RouteTaskSession2\obj\Debug\net8.0\RouteTaskSession2.sourcelink.json

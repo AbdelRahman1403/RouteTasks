@@ -1,0 +1,15 @@
+E:\BackEnd tasks\OOP\Task4\ProjectThree\bin\Debug\net8.0\ProjectThree.exe
+E:\BackEnd tasks\OOP\Task4\ProjectThree\bin\Debug\net8.0\ProjectThree.deps.json
+E:\BackEnd tasks\OOP\Task4\ProjectThree\bin\Debug\net8.0\ProjectThree.runtimeconfig.json
+E:\BackEnd tasks\OOP\Task4\ProjectThree\bin\Debug\net8.0\ProjectThree.dll
+E:\BackEnd tasks\OOP\Task4\ProjectThree\bin\Debug\net8.0\ProjectThree.pdb
+E:\BackEnd tasks\OOP\Task4\ProjectThree\obj\Debug\net8.0\ProjectThree.GeneratedMSBuildEditorConfig.editorconfig
+E:\BackEnd tasks\OOP\Task4\ProjectThree\obj\Debug\net8.0\ProjectThree.AssemblyInfoInputs.cache
+E:\BackEnd tasks\OOP\Task4\ProjectThree\obj\Debug\net8.0\ProjectThree.AssemblyInfo.cs
+E:\BackEnd tasks\OOP\Task4\ProjectThree\obj\Debug\net8.0\ProjectThree.csproj.CoreCompileInputs.cache
+E:\BackEnd tasks\OOP\Task4\ProjectThree\obj\Debug\net8.0\ProjectThree.sourcelink.json
+E:\BackEnd tasks\OOP\Task4\ProjectThree\obj\Debug\net8.0\ProjectThree.dll
+E:\BackEnd tasks\OOP\Task4\ProjectThree\obj\Debug\net8.0\refint\ProjectThree.dll
+E:\BackEnd tasks\OOP\Task4\ProjectThree\obj\Debug\net8.0\ProjectThree.pdb
+E:\BackEnd tasks\OOP\Task4\ProjectThree\obj\Debug\net8.0\ProjectThree.genruntimeconfig.cache
+E:\BackEnd tasks\OOP\Task4\ProjectThree\obj\Debug\net8.0\ref\ProjectThree.dll
