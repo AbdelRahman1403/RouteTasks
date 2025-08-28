@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\BackEnd tasks\\OOP\\Task6\\Task06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B38E8FEA-94D5-47A3-8AA0-4053988175DC}|Task06.csproj|e:\\backend tasks\\oop\\task6\\task06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B38E8FEA-94D5-47A3-8AA0-4053988175DC}|Task06.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38E8FEA-94D5-47A3-8AA0-4053988175DC}|Task06.csproj|e:\\backend tasks\\oop\\task6\\task06\\question2\\interfaces\\iuserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B38E8FEA-94D5-47A3-8AA0-4053988175DC}|Task06.csproj|solutionrelative:question2\\interfaces\\iuserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38E8FEA-94D5-47A3-8AA0-4053988175DC}|Task06.csproj|e:\\backend tasks\\oop\\task6\\task06\\question2\\interfaces\\iauthenticationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B38E8FEA-94D5-47A3-8AA0-4053988175DC}|Task06.csproj|solutionrelative:question2\\interfaces\\iauthenticationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38E8FEA-94D5-47A3-8AA0-4053988175DC}|Task06.csproj|e:\\backend tasks\\oop\\task6\\task06\\question2\\classes\\basicauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B38E8FEA-94D5-47A3-8AA0-4053988175DC}|Task06.csproj|solutionrelative:question2\\classes\\basicauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\BackEnd tasks\\OOP\\Task6\\Task06\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\BackEnd tasks\\OOP\\Task6\\Task06\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEAAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T17:24:07.946Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserData.cs",
+              "DocumentMoniker": "E:\\BackEnd tasks\\OOP\\Task6\\Task06\\Question2\\Interfaces\\IUserData.cs",
+              "RelativeDocumentMoniker": "Question2\\Interfaces\\IUserData.cs",
+              "ToolTip": "E:\\BackEnd tasks\\OOP\\Task6\\Task06\\Question2\\Interfaces\\IUserData.cs",
+              "RelativeToolTip": "Question2\\Interfaces\\IUserData.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T07:21:46.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BasicAuthenticationService.cs",
+              "DocumentMoniker": "E:\\BackEnd tasks\\OOP\\Task6\\Task06\\Question2\\Classes\\BasicAuthenticationService.cs",
+              "RelativeDocumentMoniker": "Question2\\Classes\\BasicAuthenticationService.cs",
+              "ToolTip": "E:\\BackEnd tasks\\OOP\\Task6\\Task06\\Question2\\Classes\\BasicAuthenticationService.cs*",
+              "RelativeToolTip": "Question2\\Classes\\BasicAuthenticationService.cs*",
+              "ViewState": "AgIAACwAAAAAAAAAAAAmwDgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T07:20:47.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAuthenticationServices.cs",
+              "DocumentMoniker": "E:\\BackEnd tasks\\OOP\\Task6\\Task06\\Question2\\Interfaces\\IAuthenticationServices.cs",
+              "RelativeDocumentMoniker": "Question2\\Interfaces\\IAuthenticationServices.cs",
+              "ToolTip": "E:\\BackEnd tasks\\OOP\\Task6\\Task06\\Question2\\Interfaces\\IAuthenticationServices.cs",
+              "RelativeToolTip": "Question2\\Interfaces\\IAuthenticationServices.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T07:18:27.033Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
