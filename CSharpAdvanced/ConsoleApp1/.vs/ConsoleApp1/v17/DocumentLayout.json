@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\BackEnd tasks\\CSharpAdvanced\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABD95C5-7E5F-4D0B-A4FC-DB114798FB1E}|ConsoleApp1.csproj|e:\\backend tasks\\csharpadvanced\\consoleapp1\\range.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ABD95C5-7E5F-4D0B-A4FC-DB114798FB1E}|ConsoleApp1.csproj|solutionrelative:range.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABD95C5-7E5F-4D0B-A4FC-DB114798FB1E}|ConsoleApp1.csproj|e:\\backend tasks\\csharpadvanced\\consoleapp1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ABD95C5-7E5F-4D0B-A4FC-DB114798FB1E}|ConsoleApp1.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABD95C5-7E5F-4D0B-A4FC-DB114798FB1E}|ConsoleApp1.csproj|e:\\backend tasks\\csharpadvanced\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ABD95C5-7E5F-4D0B-A4FC-DB114798FB1E}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABD95C5-7E5F-4D0B-A4FC-DB114798FB1E}|ConsoleApp1.csproj|e:\\backend tasks\\csharpadvanced\\consoleapp1\\bubblesortoptimized.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ABD95C5-7E5F-4D0B-A4FC-DB114798FB1E}|ConsoleApp1.csproj|solutionrelative:bubblesortoptimized.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABD95C5-7E5F-4D0B-A4FC-DB114798FB1E}|ConsoleApp1.csproj|e:\\backend tasks\\csharpadvanced\\consoleapp1\\notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5ABD95C5-7E5F-4D0B-A4FC-DB114798FB1E}|ConsoleApp1.csproj|solutionrelative:notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Notes.txt",
+              "DocumentMoniker": "E:\\BackEnd tasks\\CSharpAdvanced\\ConsoleApp1\\Notes.txt",
+              "RelativeDocumentMoniker": "Notes.txt",
+              "ToolTip": "E:\\BackEnd tasks\\CSharpAdvanced\\ConsoleApp1\\Notes.txt",
+              "RelativeToolTip": "Notes.txt",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-09-05T11:08:09.574Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Range.cs",
+              "DocumentMoniker": "E:\\BackEnd tasks\\CSharpAdvanced\\ConsoleApp1\\Range.cs",
+              "RelativeDocumentMoniker": "Range.cs",
+              "ToolTip": "E:\\BackEnd tasks\\CSharpAdvanced\\ConsoleApp1\\Range.cs",
+              "RelativeToolTip": "Range.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwB0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T09:26:49.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BubbleSortOptimized.cs",
+              "DocumentMoniker": "E:\\BackEnd tasks\\CSharpAdvanced\\ConsoleApp1\\BubbleSortOptimized.cs",
+              "RelativeDocumentMoniker": "BubbleSortOptimized.cs",
+              "ToolTip": "E:\\BackEnd tasks\\CSharpAdvanced\\ConsoleApp1\\BubbleSortOptimized.cs",
+              "RelativeToolTip": "BubbleSortOptimized.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T08:53:41.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\BackEnd tasks\\CSharpAdvanced\\ConsoleApp1\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "E:\\BackEnd tasks\\CSharpAdvanced\\ConsoleApp1\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T10:57:28.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\BackEnd tasks\\CSharpAdvanced\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\BackEnd tasks\\CSharpAdvanced\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T08:15:16.525Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

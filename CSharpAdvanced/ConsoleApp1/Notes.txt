@@ -1,0 +1,75 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp1
+{
+    internal class Employee
+    {
+        public Employee(int iD, string name, int salary)
+        {
+            ID = iD;
+            Name = name;
+            Salary = salary;
+        }
+
+        public int ID{ get; set; }
+        public string Name{ get; set; }
+        public int Salary{ get; set; }
+
+        public override bool Equals(object? obj)
+        {
+            Employee? other = (Employee?)obj;
+            return other is null ? false : (this.ID == other.ID && this.Name == other.Name && this.Salary == other.Salary);
+
+            //Here Equal function is overridden to compare the values of the properties of the Employee class.
+            //But , The hashcode of two objects will be diffrent.
+        }
+        override public int GetHashCode()
+        {
+            //return ID.GetHashCode() + Name.GetHashCode() + Salary.GetHashCode();
+            //return ID.GetHashCode() ^ Name?.GetHashCode() ?? default(int) ^ Salary.GetHashCode(); // more fast than +
+            //int hash = 17;
+            //hash = hash * 23 ^ ID.GetHashCode();
+            //hash = hash * 23 ^ (Name?.GetHashCode() ?? 0);
+            //hash = hash * 23 ^ Salary.GetHashCode();
+            //return hash;
+
+            return HashCode.Combine(ID.GetHashCode(), Name?.GetHashCode() ?? default(int), Salary.GetHashCode());
+        }
+    }
+}
+
+
+namespace ConsoleApp1
+{
+    internal class Program
+    {
+        public static void Swap<T> (ref T a , ref T b)
+        { 
+            // User Defineed structs doesn't have a == operator
+            
+            if(a.Equals(b))
+            {
+
+            }
+        }
+        static void Main(string[] args)
+        {
+            //Before edit the GetHashCode method in Employee class
+            //Employee emp1 = new Employee(1, "John", 70_000);
+            //Employee emp2 = new Employee(1, "John", 70_000);
+            //Console.WriteLine(emp1.GetHashCode()); //43942917
+            //Console.WriteLine(emp2.GetHashCode()); //59941933
+
+            //After edit the GetHashCode method in Employee class , in case the values of object from Employee class
+            // is same from another object from Employee class , the hashcode will be same
+            Employee emp1 = new Employee(1, "John", 70_000);
+            Employee emp2 = new Employee(1, "John", 70_000);
+            Console.WriteLine(emp1.GetHashCode()); //1612574901
+            Console.WriteLine(emp2.GetHashCode()); //161257490 1
+        }
+    }
+}

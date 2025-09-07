@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "E:\\BackEnd tasks\\ProjectExam\\Exam01\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E2567237-99F0-4CD4-876C-59E592F1F8D0}|ConsoleApp1.csproj|e:\\backend tasks\\projectexam\\exam01\\consoleapp1\\questions\\classes\\basequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2567237-99F0-4CD4-876C-59E592F1F8D0}|ConsoleApp1.csproj|solutionrelative:questions\\classes\\basequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E2567237-99F0-4CD4-876C-59E592F1F8D0}|ConsoleApp1.csproj|e:\\backend tasks\\projectexam\\exam01\\consoleapp1\\questions\\classes\\final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2567237-99F0-4CD4-876C-59E592F1F8D0}|ConsoleApp1.csproj|solutionrelative:questions\\classes\\final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2567237-99F0-4CD4-876C-59E592F1F8D0}|ConsoleApp1.csproj|e:\\backend tasks\\projectexam\\exam01\\consoleapp1\\questions\\interfaces\\iexamable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2567237-99F0-4CD4-876C-59E592F1F8D0}|ConsoleApp1.csproj|solutionrelative:questions\\interfaces\\iexamable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E2567237-99F0-4CD4-876C-59E592F1F8D0}|ConsoleApp1.csproj|e:\\backend tasks\\projectexam\\exam01\\consoleapp1\\questions\\classes\\practical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2567237-99F0-4CD4-876C-59E592F1F8D0}|ConsoleApp1.csproj|solutionrelative:questions\\classes\\practical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2567237-99F0-4CD4-876C-59E592F1F8D0}|ConsoleApp1.csproj|e:\\backend tasks\\projectexam\\exam01\\consoleapp1\\questions\\interfaces\\iquestionable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2567237-99F0-4CD4-876C-59E592F1F8D0}|ConsoleApp1.csproj|solutionrelative:questions\\interfaces\\iquestionable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E2567237-99F0-4CD4-876C-59E592F1F8D0}|ConsoleApp1.csproj|e:\\backend tasks\\projectexam\\exam01\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2567237-99F0-4CD4-876C-59E592F1F8D0}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2567237-99F0-4CD4-876C-59E592F1F8D0}|ConsoleApp1.csproj|e:\\backend tasks\\projectexam\\exam01\\consoleapp1\\questions\\interfaces\\iexamable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2567237-99F0-4CD4-876C-59E592F1F8D0}|ConsoleApp1.csproj|solutionrelative:questions\\interfaces\\iexamable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2567237-99F0-4CD4-876C-59E592F1F8D0}|ConsoleApp1.csproj|e:\\backend tasks\\projectexam\\exam01\\consoleapp1\\questions\\interfaces\\iquestionable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2567237-99F0-4CD4-876C-59E592F1F8D0}|ConsoleApp1.csproj|solutionrelative:questions\\interfaces\\iquestionable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2567237-99F0-4CD4-876C-59E592F1F8D0}|ConsoleApp1.csproj|e:\\backend tasks\\projectexam\\exam01\\consoleapp1\\questions\\classes\\basequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2567237-99F0-4CD4-876C-59E592F1F8D0}|ConsoleApp1.csproj|solutionrelative:questions\\classes\\basequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E2567237-99F0-4CD4-876C-59E592F1F8D0}|ConsoleApp1.csproj|e:\\backend tasks\\projectexam\\exam01\\consoleapp1\\questions\\classes\\answers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -48,46 +48,45 @@
               "RelativeDocumentMoniker": "Questions\\Classes\\Practical.cs",
               "ToolTip": "E:\\BackEnd tasks\\ProjectExam\\Exam01\\ConsoleApp1\\Questions\\Classes\\Practical.cs",
               "RelativeToolTip": "Questions\\Classes\\Practical.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAUwC0AAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-01T14:54:16.876Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Final.cs",
               "DocumentMoniker": "E:\\BackEnd tasks\\ProjectExam\\Exam01\\ConsoleApp1\\Questions\\Classes\\Final.cs",
               "RelativeDocumentMoniker": "Questions\\Classes\\Final.cs",
               "ToolTip": "E:\\BackEnd tasks\\ProjectExam\\Exam01\\ConsoleApp1\\Questions\\Classes\\Final.cs",
               "RelativeToolTip": "Questions\\Classes\\Final.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAswCgAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-01T14:43:16.942Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "BaseQuestion.cs",
               "DocumentMoniker": "E:\\BackEnd tasks\\ProjectExam\\Exam01\\ConsoleApp1\\Questions\\Classes\\BaseQuestion.cs",
               "RelativeDocumentMoniker": "Questions\\Classes\\BaseQuestion.cs",
               "ToolTip": "E:\\BackEnd tasks\\ProjectExam\\Exam01\\ConsoleApp1\\Questions\\Classes\\BaseQuestion.cs",
               "RelativeToolTip": "Questions\\Classes\\BaseQuestion.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAuwFcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAuwFYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T06:09:19.264Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T06:09:19.264Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "IExamable.cs",
               "DocumentMoniker": "E:\\BackEnd tasks\\ProjectExam\\Exam01\\ConsoleApp1\\Questions\\Interfaces\\IExamable.cs",
               "RelativeDocumentMoniker": "Questions\\Interfaces\\IExamable.cs",
               "ToolTip": "E:\\BackEnd tasks\\ProjectExam\\Exam01\\ConsoleApp1\\Questions\\Interfaces\\IExamable.cs",
               "RelativeToolTip": "Questions\\Interfaces\\IExamable.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-01T12:16:34.486Z",
               "EditorCaption": ""
@@ -106,29 +105,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IQuestionable.cs",
               "DocumentMoniker": "E:\\BackEnd tasks\\ProjectExam\\Exam01\\ConsoleApp1\\Questions\\Interfaces\\IQuestionable.cs",
               "RelativeDocumentMoniker": "Questions\\Interfaces\\IQuestionable.cs",
               "ToolTip": "E:\\BackEnd tasks\\ProjectExam\\Exam01\\ConsoleApp1\\Questions\\Interfaces\\IQuestionable.cs",
               "RelativeToolTip": "Questions\\Interfaces\\IQuestionable.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAMwA4AAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T06:07:11.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T06:07:11.651Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\BackEnd tasks\\ProjectExam\\Exam01\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\BackEnd tasks\\ProjectExam\\Exam01\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA8wEAAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAEAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T19:14:14.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T19:14:14.964Z"
             }
           ]
         }
