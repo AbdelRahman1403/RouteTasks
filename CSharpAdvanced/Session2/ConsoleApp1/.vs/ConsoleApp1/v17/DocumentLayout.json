@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\BackEnd tasks\\CSharpAdvanced\\Session2\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFE6128-6AE7-47C3-953A-ADDDAA57AFC2}|ConsoleApp1.csproj|e:\\backend tasks\\csharpadvanced\\session2\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFE6128-6AE7-47C3-953A-ADDDAA57AFC2}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFE6128-6AE7-47C3-953A-ADDDAA57AFC2}|ConsoleApp1.csproj|e:\\backend tasks\\csharpadvanced\\session2\\consoleapp1\\fixedsizelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFE6128-6AE7-47C3-953A-ADDDAA57AFC2}|ConsoleApp1.csproj|solutionrelative:fixedsizelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FixedSizeList.cs",
+              "DocumentMoniker": "E:\\BackEnd tasks\\CSharpAdvanced\\Session2\\ConsoleApp1\\FixedSizeList.cs",
+              "RelativeDocumentMoniker": "FixedSizeList.cs",
+              "ToolTip": "E:\\BackEnd tasks\\CSharpAdvanced\\Session2\\ConsoleApp1\\FixedSizeList.cs",
+              "RelativeToolTip": "FixedSizeList.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAuwCsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:09:45.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\BackEnd tasks\\CSharpAdvanced\\Session2\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\BackEnd tasks\\CSharpAdvanced\\Session2\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAowDkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T11:21:22.058Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
