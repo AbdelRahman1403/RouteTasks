@@ -28,7 +28,6 @@ namespace ConsoleApp1
 
             //Using Lambda Expression
             LibraryEngine.ProcessBooks(Books,(Book b) => b.YearPublished.Year);
-
         }
     }
 }
