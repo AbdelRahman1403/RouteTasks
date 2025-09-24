@@ -29,9 +29,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\BackEnd tasks\\LINQ\\Session01\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\BackEnd tasks\\LINQ\\Session01\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAOIAAAAAAAAAAAAswPAAAAAvAAAAAAAAAA==",
+              "ToolTip": "E:\\BackEnd tasks\\LINQ\\Session01\\ConsoleApp1\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAPwAAAAAAAAAAAAgwPUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-19T01:16:20.005Z",
               "IsPinned": true,
@@ -47,8 +47,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\Datastructure And Algorithm\\DemoSession01LINQSolution\\DemoSession01LINQ\\Program.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAswKMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T09:02:01.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T09:02:01.677Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "ListGenerator.cs",
               "ViewState": "AgIAAOUAAAAAAAAAAAAcwJkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T09:00:41.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T09:00:41.592Z"
             }
           ]
         }

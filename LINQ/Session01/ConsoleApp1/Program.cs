@@ -239,7 +239,10 @@ namespace ConsoleApp1
             //6.Select all orders where the order total is less than 500.00.
             var res06 = CustomerList.SelectMany(c => c.Orders.Where(o => o.Total < 500)).ToList();
             res06.ForEach(c => Console.WriteLine(c));
-            #endregion
+            #endregion 
+
+            var res = Enumerable.Repeat(1,10).ToList();
+            res.ForEach(c => Console.WriteLine(c));
 
         }
         class CompaerNumbersString : IComparer<string>
