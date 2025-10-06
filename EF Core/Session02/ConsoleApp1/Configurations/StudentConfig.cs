@@ -25,7 +25,14 @@ namespace ConsoleApp1.Configurations
             builder.Property(nameof(Student.Address)).HasMaxLength(50);
             builder.Property(nameof(Student.Age)).IsRequired();
             builder.Property(nameof(Student.DeptID)).IsRequired();
-           
+
+            builder.HasOne(s => s.department)
+                   .WithMany(d => d.Students)
+                   .HasForeignKey(f => f.DeptID)
+                   .IsRequired()
+                   .OnDelete(DeleteBehavior.Cascade);
+
+
         }
     }
 }

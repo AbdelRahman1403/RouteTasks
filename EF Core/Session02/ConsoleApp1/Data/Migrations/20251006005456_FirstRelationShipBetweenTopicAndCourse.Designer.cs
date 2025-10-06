@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ConsoleApp1.Data.Migrations
 {
     [DbContext(typeof(ITIDbContext))]
-    [Migration("20251001150246_AddStudentCourseModel")]
-    partial class AddStudentCourseModel
+    [Migration("20251006005456_FirstRelationShipBetweenTopicAndCourse")]
+    partial class FirstRelationShipBetweenTopicAndCourse
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -44,7 +44,7 @@ namespace ConsoleApp1.Data.Migrations
                         .HasColumnType("nvarchar(50)")
                         .HasColumnName("CourseName");
 
-                    b.Property<int>("Topic_ID")
+                    b.Property<int>("TopicId")
                         .HasColumnType("int");
 
                     b.HasKey("Crs_Id");
@@ -104,11 +104,14 @@ namespace ConsoleApp1.Data.Migrations
 
             modelBuilder.Entity("ConsoleApp1.Data.Models.Topic", b =>
                 {
-                    b.Property<int>("Topic_ID")
+                    b.Property<int>("TopicId")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Topic_ID"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("TopicId"));
+
+                    b.Property<int>("Crs_Id")
+                        .HasColumnType("int");
 
                     b.Property<string>("Topic_Name")
                         .IsRequired()
@@ -116,9 +119,27 @@ namespace ConsoleApp1.Data.Migrations
                         .HasColumnType("nvarchar(50)")
                         .HasColumnName("TopicName");
 
-                    b.HasKey("Topic_ID");
+                    b.HasKey("TopicId");
+
+                    b.HasIndex("Crs_Id");
 
                     b.ToTable("Topics", "dbo");
+                });
+
+            modelBuilder.Entity("ConsoleApp1.Data.Models.Topic", b =>
+                {
+                    b.HasOne("ConsoleApp1.Data.Models.Course", "crs")
+                        .WithMany("Topics")
+                        .HasForeignKey("Crs_Id")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("crs");
+                });
+
+            modelBuilder.Entity("ConsoleApp1.Data.Models.Course", b =>
+                {
+                    b.Navigation("Topics");
                 });
 #pragma warning restore 612, 618
         }

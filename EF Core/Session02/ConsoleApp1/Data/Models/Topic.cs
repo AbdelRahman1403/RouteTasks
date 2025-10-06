@@ -9,10 +9,9 @@ namespace ConsoleApp1.Data.Models
 {
     internal class Topic
     {
-        [Key]
-        public int Topic_ID { get; set; }
-        [Required]
-        [StringLength(50 , MinimumLength = 20)]
+        public int TopicId { get; set; }
         public required string Topic_Name { get; set; }
+        public int Crs_Id { get; set; }
+        public Course crs { get; set; }
     }
 }

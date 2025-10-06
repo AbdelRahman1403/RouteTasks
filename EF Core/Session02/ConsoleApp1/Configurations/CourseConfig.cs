@@ -16,12 +16,29 @@ namespace ConsoleApp1.Configurations
             builder.ToTable("Courses" , "dbo");
             builder.HasKey(builder => builder.Crs_Id);
             builder.Property(builder => builder.Crs_Id).ValueGeneratedOnAdd();
+
             builder.Property(builder => builder.Crs_Name).HasMaxLength(50)
                                                          .HasColumnName("CourseName")
                                                          .IsRequired();
             builder.Property(builder => builder.Crs_Duration).IsRequired();
             builder.Property(builder => builder.Crs_Description);
-            builder.Property(builder => builder.Topic_ID).IsRequired();
+            builder.HasMany(t => t.Topics)
+                   .WithOne(c => c.crs)
+                   .HasForeignKey(c => c.Crs_Id)
+                   .IsRequired()
+                   .OnDelete(DeleteBehavior.Cascade);
+            //builder.ToTable("Courses" , "dbo");
+            //builder.HasKey(builder => builder.Crs_Id);
+            //builder.Property(builder => builder.Crs_Id).ValueGeneratedOnAdd();
+            //builder.Property(builder => builder.Crs_Name).HasMaxLength(50)
+            //                                             .HasColumnName("CourseName")
+            //                                             .IsRequired();
+            //builder.Property(builder => builder.Crs_Duration).IsRequired();
+            //builder.Property(builder => builder.Crs_Description);
+            ////builder.Property(builder => builder.TopicId).IsRequired();
+            //builder.HasMany(c => c.Topics)
+            //        .WithOne(t => t.crs) // Now WithOne has the navigation property
+            //        .HasForeignKey(t => t.Crs_Id);
         }
     }
 }

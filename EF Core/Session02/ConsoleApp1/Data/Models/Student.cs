@@ -70,7 +70,9 @@ namespace ConsoleApp1.Data.Models
         public string? Address { get; set; }
         [Range(20 , 50)]
         public int Age { get; set; }
-        [DecimalNumber]
         public int DeptID { get; set; }
-    }
+
+        public List<Stu_Crs> StudentCourses { get; set; } = new List<Stu_Crs>();
+        public Department department { get; set; } = null!;
+        }
 }

@@ -30,6 +30,10 @@ namespace ConsoleApp1.Data.Models
         [Range(10 , 20)]
         public required int Crs_Duration { get; set; }
         public string? Crs_Description { get; set; }
-        public int Topic_ID { get; set; }
+        public int TopicId { get; set; }
+
+        public List<Topic> Topics = new List<Topic>();
+        public List<Stu_Crs> StudentCourses { get; set; } = new List<Stu_Crs>();
+
     }
 }

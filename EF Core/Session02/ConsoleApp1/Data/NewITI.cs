@@ -26,5 +26,6 @@ namespace ConsoleApp1.Data
         DbSet<Student> Students { get; set; }
         DbSet<Course> Courses { get; set; }
         DbSet<Topic> Topics { get; set; }
-        }
+        DbSet<Stu_Crs> Stu_Crs { get; set; }
+    }
 }

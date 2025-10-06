@@ -3,52 +3,96 @@
   "WorkspaceRootPath": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|e:\\backend tasks\\ef core\\session02\\consoleapp1\\data\\migrations\\20251001150246_addstudentcoursemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|solutionrelative:data\\migrations\\20251001150246_addstudentcoursemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Migrations\\20251006053856_ThirdRelationShipBetweenInstructorAndDepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20251006053856_ThirdRelationShipBetweenInstructorAndDepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|e:\\backend tasks\\ef core\\session02\\consoleapp1\\configurations\\stucrsconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|solutionrelative:configurations\\stucrsconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|e:\\backend tasks\\ef core\\session02\\consoleapp1\\data\\models\\stu_crs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|solutionrelative:data\\models\\stu_crs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|e:\\backend tasks\\ef core\\session02\\consoleapp1\\data\\newiti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|solutionrelative:data\\newiti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|e:\\backend tasks\\ef core\\session02\\consoleapp1\\data\\migrations\\20251001141620_addcourseandtopicmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|solutionrelative:data\\migrations\\20251001141620_addcourseandtopicmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|e:\\backend tasks\\ef core\\session02\\consoleapp1\\configurations\\topicconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|solutionrelative:configurations\\topicconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|e:\\backend tasks\\ef core\\session02\\consoleapp1\\configurations\\courseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|solutionrelative:configurations\\courseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|e:\\backend tasks\\ef core\\session02\\consoleapp1\\data\\models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|solutionrelative:data\\models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|e:\\backend tasks\\ef core\\session02\\consoleapp1\\data\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|solutionrelative:data\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|e:\\backend tasks\\ef core\\session02\\consoleapp1\\configurations\\studentconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|solutionrelative:configurations\\studentconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|e:\\backend tasks\\ef core\\session02\\consoleapp1\\data\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|solutionrelative:data\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Migrations\\20251001135414_AddStudentModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20251001135414_AddStudentModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|e:\\backend tasks\\ef core\\session02\\consoleapp1\\configurations\\courseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|solutionrelative:configurations\\courseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|e:\\backend tasks\\ef core\\session02\\consoleapp1\\configurations\\studentconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|solutionrelative:configurations\\studentconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|e:\\backend tasks\\ef core\\session02\\consoleapp1\\data\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|solutionrelative:data\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|e:\\backend tasks\\ef core\\session02\\consoleapp1\\configurations\\incstructorconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|solutionrelative:configurations\\incstructorconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|e:\\backend tasks\\ef core\\session02\\consoleapp1\\data\\models\\stu_crs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|solutionrelative:data\\models\\stu_crs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|e:\\backend tasks\\ef core\\session02\\consoleapp1\\configurations\\stucrsconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|solutionrelative:configurations\\stucrsconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|e:\\backend tasks\\ef core\\session02\\consoleapp1\\configurations\\departmentconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|solutionrelative:configurations\\departmentconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|e:\\backend tasks\\ef core\\session02\\consoleapp1\\data\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|solutionrelative:data\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|e:\\backend tasks\\ef core\\session02\\consoleapp1\\data\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|solutionrelative:data\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|e:\\backend tasks\\ef core\\session02\\consoleapp1\\data\\models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|solutionrelative:data\\models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Migrations\\20251006044916_SecondRelationShipBetweenStudentAndCourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20251006044916_SecondRelationShipBetweenStudentAndCourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|e:\\backend tasks\\ef core\\session02\\consoleapp1\\data\\newiti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|solutionrelative:data\\newiti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Migrations\\20251006044748_SecondRelationShipBetweenStudentAndCourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20251006044748_SecondRelationShipBetweenStudentAndCourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Migrations\\20251006005456_FirstRelationShipBetweenTopicAndCourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20251006005456_FirstRelationShipBetweenTopicAndCourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Migrations\\20251006005207_FirstRelationShipBetweenTopicAndCourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20251006005207_FirstRelationShipBetweenTopicAndCourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|e:\\backend tasks\\ef core\\session02\\consoleapp1\\configurations\\topicconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|solutionrelative:configurations\\topicconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Migrations\\20251006002209_FirstRelationShipBetweenTopicAndCourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20251006002209_FirstRelationShipBetweenTopicAndCourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Migrations\\20251005013629_FirstRelationShipBetweenTopicAndCourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20251005013629_FirstRelationShipBetweenTopicAndCourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Migrations\\20251005013538_FirstRelationShipBetweenTopicAndCourseV02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20251005013538_FirstRelationShipBetweenTopicAndCourseV02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Migrations\\20251005011737_FirstRelationShipBetweenTopicAndCourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20251005011737_FirstRelationShipBetweenTopicAndCourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Migrations\\20251005011349_NewRelationBetweenTopicAndCourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20251005011349_NewRelationBetweenTopicAndCourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2090C594-7CD5-4D1D-B290-C6289361D4F7}|ConsoleApp1.csproj|e:\\backend tasks\\ef core\\session02\\consoleapp1\\data\\sqldatatypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -139,149 +183,305 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20251001150246_AddStudentCourseModel.cs",
-              "DocumentMoniker": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Migrations\\20251001150246_AddStudentCourseModel.cs",
-              "RelativeDocumentMoniker": "Data\\Migrations\\20251001150246_AddStudentCourseModel.cs",
-              "ToolTip": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Migrations\\20251001150246_AddStudentCourseModel.cs",
-              "RelativeToolTip": "Data\\Migrations\\20251001150246_AddStudentCourseModel.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Title": "20251006053856_ThirdRelationShipBetweenInstructorAndDepartment.cs",
+              "DocumentMoniker": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Migrations\\20251006053856_ThirdRelationShipBetweenInstructorAndDepartment.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20251006053856_ThirdRelationShipBetweenInstructorAndDepartment.cs",
+              "ToolTip": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Migrations\\20251006053856_ThirdRelationShipBetweenInstructorAndDepartment.cs",
+              "RelativeToolTip": "Data\\Migrations\\20251006053856_ThirdRelationShipBetweenInstructorAndDepartment.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T15:02:46.652Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StuCrsConfig.cs",
-              "DocumentMoniker": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Configurations\\StuCrsConfig.cs",
-              "RelativeDocumentMoniker": "Configurations\\StuCrsConfig.cs",
-              "ToolTip": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Configurations\\StuCrsConfig.cs",
-              "RelativeToolTip": "Configurations\\StuCrsConfig.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T15:00:23.676Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Stu_Crs.cs",
-              "DocumentMoniker": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Models\\Stu_Crs.cs",
-              "RelativeDocumentMoniker": "Data\\Models\\Stu_Crs.cs",
-              "ToolTip": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Models\\Stu_Crs.cs",
-              "RelativeToolTip": "Data\\Models\\Stu_Crs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAowAwAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T14:55:40.441Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20251001141620_AddCourseAndTopicModels.cs",
-              "DocumentMoniker": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Migrations\\20251001141620_AddCourseAndTopicModels.cs",
-              "RelativeDocumentMoniker": "Data\\Migrations\\20251001141620_AddCourseAndTopicModels.cs",
-              "ToolTip": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Migrations\\20251001141620_AddCourseAndTopicModels.cs",
-              "RelativeToolTip": "Data\\Migrations\\20251001141620_AddCourseAndTopicModels.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T14:16:21.275Z",
+              "WhenOpened": "2025-10-06T05:38:56.769Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "TopicConfig.cs",
-              "DocumentMoniker": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Configurations\\TopicConfig.cs",
-              "RelativeDocumentMoniker": "Configurations\\TopicConfig.cs",
-              "ToolTip": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Configurations\\TopicConfig.cs",
-              "RelativeToolTip": "Configurations\\TopicConfig.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBQAAABIAAAAAAAAAA==",
+              "Title": "IncstructorConfig.cs",
+              "DocumentMoniker": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Configurations\\IncstructorConfig.cs",
+              "RelativeDocumentMoniker": "Configurations\\IncstructorConfig.cs",
+              "ToolTip": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Configurations\\IncstructorConfig.cs",
+              "RelativeToolTip": "Configurations\\IncstructorConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T14:14:18.774Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Topic.cs",
-              "DocumentMoniker": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Models\\Topic.cs",
-              "RelativeDocumentMoniker": "Data\\Models\\Topic.cs",
-              "ToolTip": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Models\\Topic.cs",
-              "RelativeToolTip": "Data\\Models\\Topic.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T14:13:22.012Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CourseConfig.cs",
-              "DocumentMoniker": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Configurations\\CourseConfig.cs",
-              "RelativeDocumentMoniker": "Configurations\\CourseConfig.cs",
-              "ToolTip": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Configurations\\CourseConfig.cs",
-              "RelativeToolTip": "Configurations\\CourseConfig.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAwwA8AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T14:06:11.207Z",
+              "WhenOpened": "2025-10-06T05:26:40.593Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Course.cs",
-              "DocumentMoniker": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Models\\Course.cs",
-              "RelativeDocumentMoniker": "Data\\Models\\Course.cs",
-              "ToolTip": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Models\\Course.cs",
-              "RelativeToolTip": "Data\\Models\\Course.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAYwB0AAAAYAAAAAAAAAA==",
+              "Title": "DepartmentConfig.cs",
+              "DocumentMoniker": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Configurations\\DepartmentConfig.cs",
+              "RelativeDocumentMoniker": "Configurations\\DepartmentConfig.cs",
+              "ToolTip": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Configurations\\DepartmentConfig.cs",
+              "RelativeToolTip": "Configurations\\DepartmentConfig.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T13:55:16.771Z",
+              "WhenOpened": "2025-10-06T05:24:30.568Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "20251001135414_AddStudentModel.cs",
-              "DocumentMoniker": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Migrations\\20251001135414_AddStudentModel.cs",
-              "RelativeDocumentMoniker": "Data\\Migrations\\20251001135414_AddStudentModel.cs",
-              "ToolTip": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Migrations\\20251001135414_AddStudentModel.cs",
-              "RelativeToolTip": "Data\\Migrations\\20251001135414_AddStudentModel.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Student.cs",
+              "ToolTip": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Models\\Student.cs",
+              "RelativeToolTip": "Data\\Models\\Student.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAgwEsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T13:54:14.916Z",
+              "WhenOpened": "2025-09-30T20:45:16.471Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
               "Title": "StudentConfig.cs",
               "DocumentMoniker": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Configurations\\StudentConfig.cs",
               "RelativeDocumentMoniker": "Configurations\\StudentConfig.cs",
               "ToolTip": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Configurations\\StudentConfig.cs",
               "RelativeToolTip": "Configurations\\StudentConfig.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAowA4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwB4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-01T12:32:36.297Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StuCrsConfig.cs",
+              "DocumentMoniker": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Configurations\\StuCrsConfig.cs",
+              "RelativeDocumentMoniker": "Configurations\\StuCrsConfig.cs",
+              "ToolTip": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Configurations\\StuCrsConfig.cs",
+              "RelativeToolTip": "Configurations\\StuCrsConfig.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T15:00:23.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Stu_Crs.cs",
+              "DocumentMoniker": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Models\\Stu_Crs.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Stu_Crs.cs",
+              "ToolTip": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Models\\Stu_Crs.cs",
+              "RelativeToolTip": "Data\\Models\\Stu_Crs.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:55:40.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "CourseConfig.cs",
+              "DocumentMoniker": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Configurations\\CourseConfig.cs",
+              "RelativeDocumentMoniker": "Configurations\\CourseConfig.cs",
+              "ToolTip": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Configurations\\CourseConfig.cs",
+              "RelativeToolTip": "Configurations\\CourseConfig.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwBgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:06:11.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Course.cs",
+              "DocumentMoniker": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Course.cs",
+              "ToolTip": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Models\\Course.cs",
+              "RelativeToolTip": "Data\\Models\\Course.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswCIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T13:55:16.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Department.cs",
+              "DocumentMoniker": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Department.cs",
+              "ToolTip": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Models\\Department.cs",
+              "RelativeToolTip": "Data\\Models\\Department.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T04:54:11.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Instructor.cs",
+              "ToolTip": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Models\\Instructor.cs",
+              "RelativeToolTip": "Data\\Models\\Instructor.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIA0wBIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T04:57:39.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Topic.cs",
+              "DocumentMoniker": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Models\\Topic.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Topic.cs",
+              "ToolTip": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Models\\Topic.cs",
+              "RelativeToolTip": "Data\\Models\\Topic.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:13:22.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20251006044916_SecondRelationShipBetweenStudentAndCourses.cs",
+              "DocumentMoniker": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Migrations\\20251006044916_SecondRelationShipBetweenStudentAndCourses.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20251006044916_SecondRelationShipBetweenStudentAndCourses.cs",
+              "ToolTip": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Migrations\\20251006044916_SecondRelationShipBetweenStudentAndCourses.cs",
+              "RelativeToolTip": "Data\\Migrations\\20251006044916_SecondRelationShipBetweenStudentAndCourses.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T04:49:16.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20251006044748_SecondRelationShipBetweenStudentAndCourses.cs",
+              "DocumentMoniker": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Migrations\\20251006044748_SecondRelationShipBetweenStudentAndCourses.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20251006044748_SecondRelationShipBetweenStudentAndCourses.cs",
+              "ToolTip": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Migrations\\20251006044748_SecondRelationShipBetweenStudentAndCourses.cs",
+              "RelativeToolTip": "Data\\Migrations\\20251006044748_SecondRelationShipBetweenStudentAndCourses.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T04:47:48.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20251006005456_FirstRelationShipBetweenTopicAndCourse.cs",
+              "DocumentMoniker": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Migrations\\20251006005456_FirstRelationShipBetweenTopicAndCourse.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20251006005456_FirstRelationShipBetweenTopicAndCourse.cs",
+              "ToolTip": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Migrations\\20251006005456_FirstRelationShipBetweenTopicAndCourse.cs",
+              "RelativeToolTip": "Data\\Migrations\\20251006005456_FirstRelationShipBetweenTopicAndCourse.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T00:54:56.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "NewITI.cs",
               "DocumentMoniker": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\NewITI.cs",
               "RelativeDocumentMoniker": "Data\\NewITI.cs",
               "ToolTip": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\NewITI.cs",
               "RelativeToolTip": "Data\\NewITI.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwBsAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBwAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T20:38:56.584Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
+              "Title": "20251006005207_FirstRelationShipBetweenTopicAndCourse.cs",
+              "DocumentMoniker": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Migrations\\20251006005207_FirstRelationShipBetweenTopicAndCourse.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20251006005207_FirstRelationShipBetweenTopicAndCourse.cs",
+              "ToolTip": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Migrations\\20251006005207_FirstRelationShipBetweenTopicAndCourse.cs",
+              "RelativeToolTip": "Data\\Migrations\\20251006005207_FirstRelationShipBetweenTopicAndCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T00:52:07.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20251006002209_FirstRelationShipBetweenTopicAndCourse.cs",
+              "DocumentMoniker": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Migrations\\20251006002209_FirstRelationShipBetweenTopicAndCourse.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20251006002209_FirstRelationShipBetweenTopicAndCourse.cs",
+              "ToolTip": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Migrations\\20251006002209_FirstRelationShipBetweenTopicAndCourse.cs",
+              "RelativeToolTip": "Data\\Migrations\\20251006002209_FirstRelationShipBetweenTopicAndCourse.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T00:22:09.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20251005013629_FirstRelationShipBetweenTopicAndCourse.cs",
+              "DocumentMoniker": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Migrations\\20251005013629_FirstRelationShipBetweenTopicAndCourse.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20251005013629_FirstRelationShipBetweenTopicAndCourse.cs",
+              "ToolTip": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Migrations\\20251005013629_FirstRelationShipBetweenTopicAndCourse.cs",
+              "RelativeToolTip": "Data\\Migrations\\20251005013629_FirstRelationShipBetweenTopicAndCourse.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T01:36:29.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TopicConfig.cs",
+              "DocumentMoniker": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Configurations\\TopicConfig.cs",
+              "RelativeDocumentMoniker": "Configurations\\TopicConfig.cs",
+              "ToolTip": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Configurations\\TopicConfig.cs",
+              "RelativeToolTip": "Configurations\\TopicConfig.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADgvxAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:14:18.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20251005013538_FirstRelationShipBetweenTopicAndCourseV02.cs",
+              "DocumentMoniker": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Migrations\\20251005013538_FirstRelationShipBetweenTopicAndCourseV02.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20251005013538_FirstRelationShipBetweenTopicAndCourseV02.cs",
+              "ToolTip": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Migrations\\20251005013538_FirstRelationShipBetweenTopicAndCourseV02.cs",
+              "RelativeToolTip": "Data\\Migrations\\20251005013538_FirstRelationShipBetweenTopicAndCourseV02.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T01:35:38.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20251005011737_FirstRelationShipBetweenTopicAndCourse.cs",
+              "DocumentMoniker": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Migrations\\20251005011737_FirstRelationShipBetweenTopicAndCourse.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20251005011737_FirstRelationShipBetweenTopicAndCourse.cs",
+              "ToolTip": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Migrations\\20251005011737_FirstRelationShipBetweenTopicAndCourse.cs",
+              "RelativeToolTip": "Data\\Migrations\\20251005011737_FirstRelationShipBetweenTopicAndCourse.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T01:17:37.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20251005011349_NewRelationBetweenTopicAndCourse.cs",
+              "DocumentMoniker": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Migrations\\20251005011349_NewRelationBetweenTopicAndCourse.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20251005011349_NewRelationBetweenTopicAndCourse.cs",
+              "ToolTip": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Migrations\\20251005011349_NewRelationBetweenTopicAndCourse.cs",
+              "RelativeToolTip": "Data\\Migrations\\20251005011349_NewRelationBetweenTopicAndCourse.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T01:13:49.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "SqlDataTypes.cs",
               "DocumentMoniker": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\SqlDataTypes.cs",
               "RelativeDocumentMoniker": "Data\\SqlDataTypes.cs",
@@ -294,7 +494,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 24,
               "Title": "20250930210238_ReomveEmployeeModel.cs",
               "DocumentMoniker": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Migrations\\20250930210238_ReomveEmployeeModel.cs",
               "RelativeDocumentMoniker": "Data\\Migrations\\20250930210238_ReomveEmployeeModel.cs",
@@ -302,25 +502,11 @@
               "RelativeToolTip": "Data\\Migrations\\20250930210238_ReomveEmployeeModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T21:02:38.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T21:02:38.857Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Student.cs",
-              "DocumentMoniker": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "Data\\Models\\Student.cs",
-              "ToolTip": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Models\\Student.cs",
-              "RelativeToolTip": "Data\\Models\\Student.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAQwEYAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T20:45:16.471Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 25,
               "Title": "20250930210111_AddDepartmentModel.cs",
               "DocumentMoniker": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Migrations\\20250930210111_AddDepartmentModel.cs",
               "RelativeDocumentMoniker": "Data\\Migrations\\20250930210111_AddDepartmentModel.cs",
@@ -328,12 +514,11 @@
               "RelativeToolTip": "Data\\Migrations\\20250930210111_AddDepartmentModel.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T21:01:11.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T21:01:11.521Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 26,
               "Title": "20250930205830_AddDepartmentModel.cs",
               "DocumentMoniker": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Data\\Migrations\\20250930205830_AddDepartmentModel.cs",
               "RelativeDocumentMoniker": "Data\\Migrations\\20250930205830_AddDepartmentModel.cs",
@@ -341,12 +526,11 @@
               "RelativeToolTip": "Data\\Migrations\\20250930205830_AddDepartmentModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T20:58:30.938Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T20:58:30.938Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 27,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\BackEnd tasks\\EF Core\\Session02\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -354,8 +538,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T05:03:53.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T05:03:53.897Z"
             }
           ]
         }

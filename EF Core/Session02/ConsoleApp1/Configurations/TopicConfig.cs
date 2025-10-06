@@ -14,11 +14,15 @@ namespace ConsoleApp1.Configurations
         public void Configure(EntityTypeBuilder<Topic> builder)
         {
             builder.ToTable("Topics", "dbo");
-            builder.HasKey(builder => builder.Topic_ID);
-            builder.Property(builder => builder.Topic_ID).ValueGeneratedOnAdd();
+            builder.HasKey(builder => builder.TopicId);
+            builder.Property(builder => builder.TopicId).ValueGeneratedOnAdd();
             builder.Property(builder => builder.Topic_Name).HasMaxLength(50)
                                                           .HasColumnName("TopicName")
                                                           .IsRequired();
+
+            builder.HasOne(c => c.crs)
+                   .WithMany(t => t.Topics)
+                   .HasForeignKey(f => f.Crs_Id);
         }
     }
 }

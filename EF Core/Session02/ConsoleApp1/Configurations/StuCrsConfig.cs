@@ -14,6 +14,16 @@ namespace ConsoleApp1.Configurations
         public void Configure(EntityTypeBuilder<Stu_Crs> builder)
         {
             builder.HasKey(builder => new { builder.Crs_ID, builder.Stu_ID });
+
+            builder.HasOne(s => s.student)
+                   .WithMany(sc => sc.StudentCourses)
+                   .HasForeignKey(s => s.Stu_ID)
+                   .IsRequired();
+            builder.HasOne(c => c.course)
+                    .WithMany(sc => sc.StudentCourses)
+                    .HasForeignKey(c => c.Crs_ID)
+                    .IsRequired();
+
             builder.Property(nameof(Stu_Crs.Grade)).IsRequired();
         }
     }

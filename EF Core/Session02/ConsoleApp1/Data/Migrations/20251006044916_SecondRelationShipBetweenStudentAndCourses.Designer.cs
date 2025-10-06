@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ConsoleApp1.Data.Migrations
 {
     [DbContext(typeof(ITIDbContext))]
-    [Migration("20251001141620_AddCourseAndTopicModels")]
-    partial class AddCourseAndTopicModels
+    [Migration("20251006044916_SecondRelationShipBetweenStudentAndCourses")]
+    partial class SecondRelationShipBetweenStudentAndCourses
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -44,12 +44,30 @@ namespace ConsoleApp1.Data.Migrations
                         .HasColumnType("nvarchar(50)")
                         .HasColumnName("CourseName");
 
-                    b.Property<int>("Topic_ID")
+                    b.Property<int>("TopicId")
                         .HasColumnType("int");
 
                     b.HasKey("Crs_Id");
 
                     b.ToTable("Courses", "dbo");
+                });
+
+            modelBuilder.Entity("ConsoleApp1.Data.Models.Stu_Crs", b =>
+                {
+                    b.Property<int>("Crs_ID")
+                        .HasColumnType("int");
+
+                    b.Property<int>("Stu_ID")
+                        .HasColumnType("int");
+
+                    b.Property<int>("Grade")
+                        .HasColumnType("int");
+
+                    b.HasKey("Crs_ID", "Stu_ID");
+
+                    b.HasIndex("Stu_ID");
+
+                    b.ToTable("Stu_Crs");
                 });
 
             modelBuilder.Entity("ConsoleApp1.Data.Models.Student", b =>
@@ -88,11 +106,14 @@ namespace ConsoleApp1.Data.Migrations
 
             modelBuilder.Entity("ConsoleApp1.Data.Models.Topic", b =>
                 {
-                    b.Property<int>("Topic_ID")
+                    b.Property<int>("TopicId")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Topic_ID"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("TopicId"));
+
+                    b.Property<int>("Crs_Id")
+                        .HasColumnType("int");
 
                     b.Property<string>("Topic_Name")
                         .IsRequired()
@@ -100,9 +121,53 @@ namespace ConsoleApp1.Data.Migrations
                         .HasColumnType("nvarchar(50)")
                         .HasColumnName("TopicName");
 
-                    b.HasKey("Topic_ID");
+                    b.HasKey("TopicId");
+
+                    b.HasIndex("Crs_Id");
 
                     b.ToTable("Topics", "dbo");
+                });
+
+            modelBuilder.Entity("ConsoleApp1.Data.Models.Stu_Crs", b =>
+                {
+                    b.HasOne("ConsoleApp1.Data.Models.Course", "course")
+                        .WithMany("StudentCourses")
+                        .HasForeignKey("Crs_ID")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("ConsoleApp1.Data.Models.Student", "student")
+                        .WithMany("StudentCourses")
+                        .HasForeignKey("Stu_ID")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("course");
+
+                    b.Navigation("student");
+                });
+
+            modelBuilder.Entity("ConsoleApp1.Data.Models.Topic", b =>
+                {
+                    b.HasOne("ConsoleApp1.Data.Models.Course", "crs")
+                        .WithMany("Topics")
+                        .HasForeignKey("Crs_Id")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("crs");
+                });
+
+            modelBuilder.Entity("ConsoleApp1.Data.Models.Course", b =>
+                {
+                    b.Navigation("StudentCourses");
+
+                    b.Navigation("Topics");
+                });
+
+            modelBuilder.Entity("ConsoleApp1.Data.Models.Student", b =>
+                {
+                    b.Navigation("StudentCourses");
                 });
 #pragma warning restore 612, 618
         }
